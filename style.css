@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
+h1{
+  font-size:40px
+}
+input{
+  width: 200px
+  
+}
+h2{
+  font-size:30px;
+  font-family:Forte
+}
+h3{
+  font-size:25px;
+  font-family:Forte;
+}
+hmain{
+  font-size:40px;
+  font-family:ALGERIAN
+}
+Rules{
+  font-size:20px;
+  font-family:Matura MT Script Capitals;
+}
